@@ -1,11 +1,9 @@
+###`ESTA BIBLIOTECA ESTÁ DEPRECIADA. Por favor, utilize a nova versão disponível em` https://github.com/pagseguro/php3
+
 Biblioteca de integração PagSeguro para PHP
 ===========================================
 
 [![Code Climate](https://codeclimate.com/github/pagseguro/php/badges/gpa.svg)](https://codeclimate.com/github/pagseguro/php)
-
-
-ESTA BIBLIOTECA ESTÁ DEPRECIADA. Por favor, utilize a nova versão disponível em https://github.com/pagseguro/php3.
----------
 
 Descrição
 ---------
